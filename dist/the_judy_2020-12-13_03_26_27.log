@@ -1,0 +1,189 @@
+2020-12-13 03:26:27,931 root        : DEBUG    ===Logging Initialized===
+2020-12-13 03:26:27,931 root        : DEBUG    Argument apply_alliance=None
+2020-12-13 03:26:27,931 root        : DEBUG    Argument ask_for_help=False
+2020-12-13 03:26:27,931 root        : DEBUG    Argument attack_baron=None
+2020-12-13 03:26:27,932 root        : DEBUG    Argument attack_barons=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument attack_berimond=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument attack_nomads=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument attack_player=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument blade_coast=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument build_tools=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument buy_tools=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument buy_tools_for_baron=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument collect_tax=None
+2020-12-13 03:26:27,932 root        : DEBUG    Argument dry_run=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument farm=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument favor_low_level_barons=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument heal_troops=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument help_all=False
+2020-12-13 03:26:27,932 root        : DEBUG    Argument include_distance_to_me=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument inifile=inifile_for_player_a.ini
+2020-12-13 03:26:27,933 root        : DEBUG    Argument leave_alliance=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument list_barons=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument loop=None
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_alliance_coordinates=None
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_attack_content=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_economy=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_full_economy=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_gems=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_info=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_main_economy=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument print_samurai_rankings=None
+2020-12-13 03:26:27,933 root        : DEBUG    Argument recruit_berimond=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument recruit_green=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument recruit_troops=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument rvs_only=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument send_rss=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument send_rss_new=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument spy_barons=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument station_troops=False
+2020-12-13 03:26:27,933 root        : DEBUG    Argument use_khan_chests=False
+2020-12-13 03:26:27,934 root        : DEBUG    Argument use_khan_chests_for_midas=False
+2020-12-13 03:26:27,934 root        : DEBUG    Argument use_time_skips=False
+2020-12-13 03:26:27,947 root        : DEBUG    Processor Start
+2020-12-13 03:26:28,476 root        : DEBUG    <<< Received message, len: 53: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+
+2020-12-13 03:26:28,477 root        : DEBUG    readResult: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-13 03:26:28,478 commands    : DEBUG    R1: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-13 03:26:28,754 root        : DEBUG    <<< Received message, len: 88: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"105.RC.3","minNameSize":3,"sectorCountX":99}%
+
+2020-12-13 03:26:28,754 root        : DEBUG    <<< Received message, len: 30: %xt%rlu%-1%1%0%100000%2%Lobby%
+
+2020-12-13 03:26:28,754 root        : DEBUG    readResult: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"105.RC.3","minNameSize":3,"sectorCountX":99}%
+2020-12-13 03:26:28,754 commands    : DEBUG    R2: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"105.RC.3","minNameSize":3,"sectorCountX":99}%
+2020-12-13 03:26:28,755 root        : DEBUG    readResult: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-13 03:26:28,755 commands    : DEBUG    R3: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-13 03:26:29,016 root        : DEBUG    <<< Received message, len: 92: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+
+2020-12-13 03:26:29,017 root        : DEBUG    readResult: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-13 03:26:29,017 commands    : DEBUG    R4: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-13 03:26:29,275 root        : DEBUG    <<< Received message, len: 85: %xt%core_avl%1%10005%{"P":"1e97afe713336563949c0c2aee822d0e","M":"kjudy6@yahoo.com"}%
+
+2020-12-13 03:26:29,276 root        : DEBUG    readResult: %xt%core_avl%1%10005%{"P":"1e97afe713336563949c0c2aee822d0e","M":"kjudy6@yahoo.com"}%
+2020-12-13 03:26:29,276 commands    : DEBUG    8: %xt%core_avl%1%10005%{"P":"1e97afe713336563949c0c2aee822d0e","M":"kjudy6@yahoo.com"}%
+2020-12-13 03:26:39,277 root        : INFO     Caught EXCEPTION
+2020-12-13 03:26:39,279 root        : DEBUG    Traceback (most recent call last):
+  File "gge_client.py", line 294, in runscript
+  File "gge_comm.py", line 124, in execute
+  File "gge_commands.py", line 215, in execute
+  File "multiprocessing\queues.py", line 114, in get
+_queue.Empty
+
+2020-12-13 03:26:39,279 root        : DEBUG    stop IN MainThread
+2020-12-13 03:26:39,279 root        : DEBUG    RECEIVER _closeSocket IN
+2020-12-13 03:26:39,279 root        : DEBUG    RECEIVER _closeSocket performing cleanup
+2020-12-13 03:26:39,280 root        : DEBUG    RECEIVER _closeSocket OUT
+2020-12-13 03:26:39,280 root        : DEBUG    <<< Received EMPTY TERMINATION message
+2020-12-13 03:26:39,281 root        : DEBUG    _dispatchMessage IN with xxkill
+2020-12-13 03:26:39,282 root        : DEBUG    <<<< runscript() OUT
+2020-12-13 03:26:39,282 root        : DEBUG    GOT EXCEPTION IN _receiver, _stop=True Traceback (most recent call last):
+  File "gge_comm.py", line 177, in _receiver
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+2020-12-13 03:26:39,283 root        : DEBUG    TERMINATING
+2020-12-13 03:26:39,283 root        : DEBUG    RECEIVER _closeSocket IN
+2020-12-13 03:26:39,284 root        : DEBUG    RECEIVER _closeSocket OUT
+2020-12-13 03:26:39,284 root        : DEBUG    RECEIVER TERMINATED
+2020-12-13 03:26:39,285 root        : DEBUG    _closeQueues IN
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%rsc%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%rsc%
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%txi%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%txi%
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%txs%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%txs%
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%txc%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%txc%
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%gbd%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%gbd%
+2020-12-13 03:26:44,286 root        : DEBUG    Attempting to close Q %xt%jaa%
+2020-12-13 03:26:44,286 root        : DEBUG    Successfuly closed Q %xt%jaa%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%gui%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%gui%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%bup%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%bup%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%gaa%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%gaa%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%abi%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%abi%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%aci%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%aci%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%adi%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%adi%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%pin%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%pin%
+2020-12-13 03:26:44,287 root        : DEBUG    Attempting to close Q %xt%cra%
+2020-12-13 03:26:44,287 root        : DEBUG    Successfuly closed Q %xt%cra%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%sbp%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%sbp%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%cmi%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%cmi%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%dcl%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%dcl%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%crm%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%crm%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%mus%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%mus%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%gam%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%gam%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%ahh%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%ahh%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%aha%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%aha%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%hgh%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%hgh%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%gdi%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%gdi%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%clb%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%clb%
+2020-12-13 03:26:44,288 root        : DEBUG    Attempting to close Q %xt%alb%
+2020-12-13 03:26:44,288 root        : DEBUG    Successfuly closed Q %xt%alb%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%hru%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%hru%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%hdu%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%hdu%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%ssi%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%ssi%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%csm%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%csm%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%sne%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%sne%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%bsd%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%bsd%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%ain%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%ain%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%tmp%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%tmp%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%sje%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%sje%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%grc%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%grc%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%tai%
+2020-12-13 03:26:44,289 root        : DEBUG    Successfuly closed Q %xt%tai%
+2020-12-13 03:26:44,289 root        : DEBUG    Attempting to close Q %xt%thm%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%thm%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%cat%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%cat%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%sti%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%sti%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%rbu%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%rbu%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%aqi%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%aqi%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%saa%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%saa%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%ggm%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%ggm%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%gli%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%gli%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%gei%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%gei%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%msd%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%msd%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q %xt%fnt%
+2020-12-13 03:26:44,290 root        : DEBUG    Successfuly closed Q %xt%fnt%
+2020-12-13 03:26:44,290 root        : DEBUG    Attempting to close Q q_pub
+2020-12-13 03:26:44,291 root        : DEBUG    Successfuly closed Q q_pub
+2020-12-13 03:26:44,291 root        : DEBUG    Attempting to close Q q (base Q)
+2020-12-13 03:26:44,291 root        : DEBUG    Successfuly closed Q q (base Q)
+2020-12-13 03:26:44,291 root        : DEBUG    _closeQueues OUT
+2020-12-13 03:26:44,291 root        : DEBUG    _messageDispatcher TERMINATED

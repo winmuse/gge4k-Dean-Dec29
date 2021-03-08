@@ -1,0 +1,70 @@
+2020-12-25 00:02:11,727 root        : DEBUG    ===Logging Initialized===
+2020-12-25 00:02:11,727 root        : DEBUG    Argument apply_alliance=None
+2020-12-25 00:02:11,727 root        : DEBUG    Argument ask_for_help=False
+2020-12-25 00:02:11,727 root        : DEBUG    Argument attack_baron=None
+2020-12-25 00:02:11,727 root        : DEBUG    Argument attack_barons=False
+2020-12-25 00:02:11,727 root        : DEBUG    Argument attack_berimond=False
+2020-12-25 00:02:11,727 root        : DEBUG    Argument attack_nomads=False
+2020-12-25 00:02:11,727 root        : DEBUG    Argument attack_player=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument blade_coast=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument build_tools=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument buy_tools=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument buy_tools_for_baron=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument collect_tax=10
+2020-12-25 00:02:11,728 root        : DEBUG    Argument dry_run=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument farm=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument favor_low_level_barons=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument heal_troops=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument help_all=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument include_distance_to_me=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument inifile=gg_config.ini
+2020-12-25 00:02:11,728 root        : DEBUG    Argument leave_alliance=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument list_barons=False
+2020-12-25 00:02:11,728 root        : DEBUG    Argument loop=None
+2020-12-25 00:02:11,728 root        : DEBUG    Argument print_alliance_coordinates=None
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_attack_content=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_economy=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_full_economy=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_gems=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_info=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_main_economy=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument print_samurai_rankings=None
+2020-12-25 00:02:11,729 root        : DEBUG    Argument recruit_berimond=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument recruit_green=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument recruit_troops=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument rvs_only=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument send_rss=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument send_rss_new=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument spy_barons=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument station_troops=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument use_khan_chests=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument use_khan_chests_for_midas=False
+2020-12-25 00:02:11,729 root        : DEBUG    Argument use_time_skips=False
+2020-12-25 00:02:11,762 root        : DEBUG    Processor Start
+2020-12-25 00:02:12,335 root        : DEBUG    readResult: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-25 00:02:12,336 commands    : DEBUG    R1: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-25 00:02:12,588 root        : DEBUG    readResult: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"106.RC.06","minNameSize":3,"sectorCountX":99}%
+2020-12-25 00:02:12,589 commands    : DEBUG    R2: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"106.RC.06","minNameSize":3,"sectorCountX":99}%
+2020-12-25 00:02:12,591 root        : DEBUG    readResult: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-25 00:02:12,591 commands    : DEBUG    R3: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-25 00:02:12,842 root        : DEBUG    readResult: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-25 00:02:12,842 commands    : DEBUG    R4: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-25 00:02:13,096 root        : DEBUG    readResult: %xt%core_avl%1%10005%{"P":"8bc00f257d8751d13845f656a0793896","M":"nyechaitea@yahoo.com"}%
+2020-12-25 00:02:13,096 commands    : DEBUG    8: %xt%core_avl%1%10005%{"P":"8bc00f257d8751d13845f656a0793896","M":"nyechaitea@yahoo.com"}%
+2020-12-25 00:02:13,354 root        : DEBUG    readResult: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-25 00:02:13,354 commands    : DEBUG    L1: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+2020-12-25 00:02:13,607 root        : DEBUG    readResult: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"106.RC.06","minNameSize":3,"sectorCountX":99}%
+2020-12-25 00:02:13,607 commands    : DEBUG    L2_1: %xt%core_nfo%1%0%{"sectorCountY":99,"XML":"106.RC.06","minNameSize":3,"sectorCountX":99}%
+2020-12-25 00:02:13,608 root        : DEBUG    readResult: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-25 00:02:13,608 commands    : DEBUG    L2_2: %xt%rlu%-1%1%0%100000%2%Lobby%
+2020-12-25 00:02:13,870 root        : DEBUG    readResult: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-25 00:02:13,870 commands    : DEBUG    L3: <msg t='sys'><body action='joinOK' r='1'><pid id='0'/><vars /><uLs r='1'></uLs></body></msg>
+2020-12-25 00:02:15,872 root        : DEBUG    readResult: <msg t='sys'><body action='roundTripRes' r='1'></body></msg>
+2020-12-25 00:02:15,872 commands    : DEBUG    L4: <msg t='sys'><body action='roundTripRes' r='1'></body></msg>
+2020-12-25 00:02:16,170 root        : DEBUG    readResult: %xt%core_pol%1%10005%[{"RS":7200,"PC":[],"OS":40,"D":7200,"OD":[{"autoAccept":false,"visualComponents":[{"name":"offersHub","params":{"ASS":[41,40],"FDS":[200,50],"OHS":[41,40],"TID":14,"SID":1}}],"rewardComponents":[{"name":"standardReward","params":{"RI":[[6401,40,100,[805,802,801,20002,20008]],[3101,40,100,[302,301,305]],[3101,40,100,[302,305,307]],[3101,40,100,[308,306,307]],[3101,40,100,[308,301,306]],[1,40,100,[103]],[101,40,100,[105]],[201,40,100,[106]],[301,40,100,[101,102]]],"SO":"RI_0#RI_1#RI_2#RI_3#RI_4#RI_5#RI_6#RI_7#RI_8"}}],"costCurrencyPremium":99999}],"SNC":7200,"OID":3819,"IT":1}]%
+2020-12-25 00:02:16,171 root        : DEBUG    readResult: %xt%dms%1%0%{"MID":[1273610182]}%
+2020-12-25 00:02:16,171 commands    : DEBUG    L6: %xt%dms%1%0%{"MID":[1273610182]}%
+2020-12-25 00:02:16,173 root        : DEBUG    readResult: %xt%core_pol%1%10005%[{"PC":[],"OS":51,"OD":[{"autoAccept":true,"visualComponents":[{"name":"offersHub","params":{"ASS":[22],"FDS":[200],"OHS":[22],"TID":16,"SID":1,"DC":{"HL":[0],"STID":"dialog_primeDayPO_desc_03","ID":"genericOfferDC","TEID":2,"RM":{"A":[],"T":1},"TSID":9,"TID":"dialog_primeDayPO_title_03"}}}],"rewardComponents":[{"name":"standardReward","params":{"U":[[9,2000],[10,2000],[651,200],[649,200],[650,200],[648,200]],"F":[120000],"OL":1}}]}],"SNC":72,"OID":1339,"IT":34}]%
+2020-12-25 00:02:16,173 commands    : DEBUG    L7: %xt%core_pol%1%10005%[{"PC":[],"OS":51,"OD":[{"autoAccept":true,"visualComponents":[{"name":"offersHub","params":{"ASS":[22],"FDS":[200],"OHS":[22],"TID":16,"SID":1,"DC":{"HL":[0],"STID":"dialog_primeDayPO_desc_03","ID":"genericOfferDC","TEID":2,"RM":{"A":[],"T":1},"TSID":9,"TID":"dialog_primeDayPO_title_03"}}}],"rewardComponents":[{"name":"standardReward","params":{"U":[[9,2000],[10,2000],[651,200],[649,200],[650,200],[648,200]],"F":[120000],"OL":1}}]}],"SNC":72,"OID":1339,"IT":34}]%
+2020-12-25 00:02:16,173 root        : DEBUG    readResult: %xt%core_pol%1%10005%[{"PC":[],"OS":51,"OD":[{"autoAccept":true,"visualComponents":[{"name":"offersHub","params":{"ASS":[22],"FDS":[200],"OHS":[22],"TID":16,"SID":1,"DC":{"HL":[0],"STID":"dialog_primeDayPO_desc_03","ID":"genericOfferDC","TEID":2,"RM":{"A":[],"T":1},"TSID":9,"TID":"dialog_primeDayPO_title_03"}}}],"rewardComponents":[{"name":"standardReward","params":{"U":[[9,6000],[10,6000],[651,600],[649,600],[650,600],[648,600]],"F":[360000],"OL":1}}]}],"SNC":119,"OID":1340,"IT":34}]%
+2020-12-25 00:02:16,173 commands    : DEBUG    L8: %xt%core_pol%1%10005%[{"PC":[],"OS":51,"OD":[{"autoAccept":true,"visualComponents":[{"name":"offersHub","params":{"ASS":[22],"FDS":[200],"OHS":[22],"TID":16,"SID":1,"DC":{"HL":[0],"STID":"dialog_primeDayPO_desc_03","ID":"genericOfferDC","TEID":2,"RM":{"A":[],"T":1},"TSID":9,"TID":"dialog_primeDayPO_title_03"}}}],"rewardComponents":[{"name":"standardReward","params":{"U":[[9,6000],[10,6000],[651,600],[649,600],[650,600],[648,600]],"F":[360000],"OL":1}}]}],"SNC":119,"OID":1340,"IT":34}]%
